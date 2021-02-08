@@ -61,7 +61,7 @@ symfony.lock
 /.env.*.local
 /config/secrets/prod/prod.decrypt.private.php
 /public/bundles/
-/var/
+/var/*
 /vendor/Migrations/*.php
 ###< symfony/framework-bundle ###
 
@@ -73,3 +73,4 @@ symfony.lock
 
 #phpstorm
 .idea
+
