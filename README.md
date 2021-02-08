@@ -17,7 +17,7 @@ Le projet se base sur une gestion des données en **SQLite**, et non via MySQL o
 
 Pour les instructions suivantes, nous partirons du principe que vous avez un mappage du port `1234` (*PC hôte*) vers le port `80` de votre container.
 
-Une fois votre environnement Docker lancé, utilisez un terminal pour vous y connecter. Executez `composer self-update` *(mise à jour de Composer)* et procéder à l'installation du projet (`git clone https://framagit.org/BSP/ue235-ciel-2.git .`) et de ses dépendances (toujours avec Composer, `composer install` ou `composer update`, à la racine du projet). 
+Une fois votre environnement Docker lancé, utilisez un terminal pour vous y connecter. Executez `composer self-update` *(mise à jour de Composer)* et procéder à l'installation du projet (`git clone https://framagit.org/BSP/ue235-ciel-2.git .`) et à la mise à jour de ses dépendances (toujours avec Composer, `composer update`, à la racine du projet). 
 
 **Si nécessaire**, créez un fichier `.env.local` afin d'y renseigner vos paramètres locaux.
 
