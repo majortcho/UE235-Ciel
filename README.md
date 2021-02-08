@@ -55,7 +55,7 @@ Il vous faudra donc :
   * ajouter Bootstrap au projet, de la manière la plus adaptée
   * personnaliser en CSS et en Javascript ***(parte JS optionnelle)*** la totalité des pages du site internet
   * gérer aux mieux vos *assets* (fichiers CSS, JS, images, ....)
-  * déposer votre production sur un espace Git suivant les consignes ci-dessous
+  * déposer votre production sur un espace Git suivant les consignes précisées dans le sujet du CIEL (format PDF)
 
 
 ## Rappels d'URL du projet ##
